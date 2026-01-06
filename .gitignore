@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# Flask
+instance/
+*.sqlite3
+
+# Node / React / Next.js
+node_modules/
+.next/
+dist/
+build/
+
+.env.development
+.env.local
+.env.production
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
